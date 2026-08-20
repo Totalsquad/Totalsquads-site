@@ -127,9 +127,9 @@ footer{
 <nav>
 <div class="logo">Total Squads</div>
 <ul>
-<li>#about</li>
-<li>#servicesServices</a></li>
-<li>contact">Contact</a></li>
+<li>About</li>
+<li>Services</a></li>
+<li>Contact</a></li>
 </ul>
 </nav>
 </div>
