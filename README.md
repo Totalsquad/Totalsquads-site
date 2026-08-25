@@ -136,62 +136,6 @@ footer{
 </header>
 
 <section class="hero">
-<h1>Reliable IT Solutions for Your Business</h1>
-<p>We provide technical support, cloud solutions, networking and digital services that help businesses succeed.</p>
-#contactbtn">Get a Quote</a>
-</section>
-
-<section id="about" class="about">
-<div class="container">
-<h2 class="section-title">About Us</h2>
-<p style="text-align:center;">
-Total Squads is a technology solutions company committed to delivering
-professional IT support, networking solutions, cybersecurity awareness,
-cloud services and digital transformation assistance to businesses and individuals.
-</p>
-</div>
-</section>
-
-<section id="services">
-<div class="container">
-<h2 class="section-title">Our Services</h2>
-
-<div class="services">
-
-<div class="card">
-<h3>IT Support</h3>
-<p>Desktop support, troubleshooting and end-user assistance.</p>
-</div>
-
-<div class="card">
-<h3>Network Solutions</h3>
-<p>LAN, Wi-Fi deployment, network monitoring and optimization.</p>
-</div>
-
-<div class="card">
-<h3>Cloud Services</h3>
-<p>Microsoft 365 setup, migration and administration.</p>
-</div>
-
-<div class="card">
-<h3>Cybersecurity</h3>
-<p>Security best practices, protection and threat awareness.</p>
-</div>
-
-<div class="card">
-<h3>Web Development</h3>
-<p>Professional websites tailored to your business needs.</p>
-</div>
-
-<div class="card">
-<h3>Consulting</h3>
-<p>Technology advisory and digital transformation planning.</p>
-</div>
-
-</div>
-</div>
-</section>
-
 <section id="contact" class="contact">
 <div class="container">
 <h2 class="section-title">Contact Us</h2>
